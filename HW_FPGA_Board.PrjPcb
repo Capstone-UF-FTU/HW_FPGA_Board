@@ -411,7 +411,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BKOKVFVC
 
 [Document23]
 DocumentPath=..\component_libraries\Connectors.SchLib
@@ -428,7 +428,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WGCWYWUW
 
 [Document24]
 DocumentPath=..\component_libraries\Diodes.PcbLib
@@ -666,7 +666,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HHHMPUNP
 
 [Document38]
 DocumentPath=..\component_libraries\Switches.SchLib
@@ -734,7 +734,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PGTSRJYQ
 
 [Document42]
 DocumentPath=..\component_libraries\Virtual Parts.SchLib
