@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HW_FPGA_Board.PrjPcb]
+   Generated File[HW_FPGA_Board-RoundHoles.TXT]
+   Generated File[HW_FPGA_Board-SlotHoles.TXT]
+   Generated File[HW_FPGA_Board.LDP]
+   Generated File[HW_FPGA_Board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:32:49 PM On 2021-03-14
